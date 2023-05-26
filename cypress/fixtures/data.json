@@ -1,0 +1,23 @@
+{
+    "baseUrl_general": "https://api.trello.com/1/members/me/boards?key=",
+    "API_KEY": "4c82a4409031a2240317d74f200ed590",
+    "TOKEN_KEY": "84f32224cb827cd170148a089e8f85480a2b0b20e1d48fc2a8065e2444161b8f",      
+    "URL_BOARDS_ID": "https://api.trello.com/1/boards/",
+    "IdBOARD_ApiRest": "6350750190e9700189d650c5",
+    "IdBoard_QA":"646f6d88e75c8fdfbef12da9",
+    "URL_CREATE_BOARD": "https://api.trello.com/1/boards/?name=",
+    "Name_Board": "NEW_BOARD_AUTOMATION",
+    "NAME_LIST": "EMOJI",
+    "URL_CREAR_LIST": "https://api.trello.com/1/lists?name=",
+    "Name_CARD": "PRIMER CARD",
+    "URL_CREAR_CARD": "https://api.trello.com/1/cards?idList=",
+    "NuevoNombre_BOARD": "BOARD_UPDATE",
+    "URL_UPDATE_BOARD": "https://api.trello.com/1/boards/",
+    "URL_UPDATE_LIST": "https://api.trello.com/1/lists/",
+    "NuevoNombre_LIST": "LISTA ACTUALIZADA",
+    "URL_UPDATE_CARD": "https://api.trello.com/1/cards/",
+    "NuevoNombre_CARD": "CARD ACTUALIZADA",
+    "URL_DELETE_CARD": "https://api.trello.com/1/cards/",
+    "URL_DELETE_BOARD": "https://api.trello.com/1/boards/"
+}
+
