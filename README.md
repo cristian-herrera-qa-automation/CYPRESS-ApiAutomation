@@ -3,3 +3,5 @@
 - TODAS LAS PRUEBAS ESTAN REALIZADAS CON CYPRESS, YA QUE ES UN FRAMEWORK EXCELENTE TANTO PARA FRONT-END COMO PARA BACK-END. 
 - ADEMAS LO ENLANCE A LA INTEGRACION CONTINUA (CI) CON GITHUB ACTIONS, PARA PODER CORRER LOS TESTS CUANTAS VECES UNO DESEE.
 - Para la DATA utilize un archivo JSON dentro de la carpeta FIXTURE como es de buena practica en CYPRESS, asi logramos un codigo mas limpio.
+
+* API DOCUMENTACION DE TRELLO : https://developer.atlassian.com/cloud/trello/rest/api-group-actions/
