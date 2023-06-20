@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:chrome":"npx cypress run --browser chrome --spec */**/API_AUTOMATION.cy.js",
+    "cypress:edge":"npx cypress run --browser edge --spec */**/API_AUTOMATION.cy.js"
+
   },
   "keywords": [
     "API",
